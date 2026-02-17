@@ -1,4 +1,4 @@
-package QAInterviewPrograms;
+package QAInterviewPrograms.numberPrograms;
 
 public class FindMinNumber {
 	public static int findMinNumber(int[] nums) {

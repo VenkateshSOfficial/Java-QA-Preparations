@@ -1,11 +1,11 @@
-package QAInterviewPrograms;
+package QAInterviewPrograms.stringPrograms;
 
 import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
-public class DuplicateOccuranceOfCharacter {
-	public static String fetchDuplciates(String word) {
+public class RemoveDuplicatesCharacters {
+	public static String fetchDuplicates(String word) {
 		Set<Character> character=new HashSet<>();
 		StringBuilder sb=new StringBuilder();
 		
@@ -21,6 +21,6 @@ public class DuplicateOccuranceOfCharacter {
 		Scanner s=new Scanner(System.in);
 		System.out.print("Enter the word : ");
 		String word=s.next();
-		System.out.println(fetchDuplciates(word));
+		System.out.println(fetchDuplicates(word));
 	}
 }

@@ -1,4 +1,4 @@
-package QAInterviewPrograms;
+package QAInterviewPrograms.stringPrograms;
 
 import java.util.Map;
 import java.util.HashMap;
