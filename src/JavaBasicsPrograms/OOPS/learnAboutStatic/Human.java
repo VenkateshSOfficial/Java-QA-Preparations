@@ -1,4 +1,4 @@
-package JavaBasicsPrograms.learnStaticExample;
+package JavaBasicsPrograms.OOPS.learnAboutStatic;
 
 public class Human {
 	String name;
