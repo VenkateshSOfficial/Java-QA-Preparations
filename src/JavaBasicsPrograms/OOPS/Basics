@@ -1,0 +1,11 @@
+static keyword
+================
+1. when static keyword is used then either the method or the class variable
+   does not belong to any specific object but belongs to the entire class.
+
+final keyword
+===============
+1. When variables declared as final then those variables can't be altered during runtime
+   or execution (immutable)
+2. When methods declared as final cannot be overridden.
+3. When classes declared as final cannot be inherited.
